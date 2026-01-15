@@ -1,0 +1,27 @@
+2026-01-15 23:35:31,782 | INFO | === ETL Run Started ===
+2026-01-15 23:35:31,785 | INFO | Log file created: logs/run_20260115_2335.log
+2026-01-15 23:35:32,568 | INFO | Received command c on object id p0
+2026-01-15 23:35:32,613 | INFO | Random seeds fixed for reproducibility.
+2026-01-15 23:35:32,895 | INFO | Received command c on object id p0
+2026-01-15 23:35:35,113 | INFO | requirements.txt generated.
+2026-01-15 23:35:35,404 | INFO | Received command c on object id p0
+2026-01-15 23:35:35,592 | INFO | Hashed menu_items.csv: 7b988ca5f880bf2106793f88de522aab06b4cebbc9219c5aa79497e897c47561
+2026-01-15 23:35:35,757 | INFO | Hashed order_details.csv: 85086e838a21f7569b0cd803224f50440ab68c132e1df5df1a1058072abbcd83
+2026-01-15 23:35:35,796 | INFO | Data hashes saved to data_hashes.json
+2026-01-15 23:35:36,020 | INFO | Received command c on object id p0
+2026-01-15 23:35:36,338 | INFO | Menu dataframe loaded with 32 rows
+2026-01-15 23:35:36,340 | INFO | Order details dataframe loaded with 12234 rows
+2026-01-15 23:35:37,115 | INFO | Received command c on object id p0
+2026-01-15 23:35:37,416 | INFO | Received command c on object id p0
+2026-01-15 23:35:37,774 | INFO | Data cleaning completed.
+2026-01-15 23:35:38,187 | INFO | Received command c on object id p0
+2026-01-15 23:35:38,244 | INFO | Merged dataframe created with 12234 rows
+2026-01-15 23:35:38,621 | INFO | Received command c on object id p0
+2026-01-15 23:35:38,663 | INFO | Final tidy table created.
+2026-01-15 23:35:38,919 | INFO | Received command c on object id p0
+2026-01-15 23:35:39,288 | INFO | Received command c on object id p0
+2026-01-15 23:35:39,752 | INFO | Received command c on object id p0
+2026-01-15 23:35:40,147 | INFO | Received command c on object id p0
+2026-01-15 23:35:40,314 | INFO | Metrics saved to metrics_20260115_2335.csv
+2026-01-15 23:35:40,658 | INFO | Received command c on object id p0
+2026-01-15 23:35:40,683 | INFO | All tests passed successfully.

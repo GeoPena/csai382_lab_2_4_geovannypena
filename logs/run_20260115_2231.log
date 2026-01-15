@@ -1,0 +1,85 @@
+2026-01-15 22:31:13,646 | INFO | === ETL Run Started ===
+2026-01-15 22:31:13,652 | INFO | Log file created: logs/run_20260115_2231.log
+2026-01-15 22:36:04,004 | INFO | Python Server ready to receive messages
+2026-01-15 22:36:04,006 | INFO | Received command c on object id p0
+2026-01-15 22:36:04,128 | INFO | === ETL Run Started ===
+2026-01-15 22:36:04,129 | INFO | Log file created: logs/run_20260115_2236.log
+2026-01-15 22:36:04,536 | INFO | Received command c on object id p0
+2026-01-15 22:36:04,556 | INFO | Random seeds fixed for reproducibility.
+2026-01-15 22:36:04,811 | INFO | Received command c on object id p0
+2026-01-15 22:36:06,007 | INFO | requirements.txt generated.
+2026-01-15 22:36:06,240 | INFO | Received command c on object id p0
+2026-01-15 22:36:06,391 | INFO | Hashed menu_items.csv: 7b988ca5f880bf2106793f88de522aab06b4cebbc9219c5aa79497e897c47561
+2026-01-15 22:36:06,571 | INFO | Hashed order_details.csv: 85086e838a21f7569b0cd803224f50440ab68c132e1df5df1a1058072abbcd83
+2026-01-15 22:36:06,585 | INFO | Data hashes saved to data_hashes.json
+2026-01-15 22:45:07,205 | INFO | Python Server ready to receive messages
+2026-01-15 22:45:07,206 | INFO | Received command c on object id p0
+2026-01-15 22:45:07,521 | INFO | === ETL Run Started ===
+2026-01-15 22:45:07,522 | INFO | Log file created: logs/run_20260115_2245.log
+2026-01-15 22:45:07,860 | INFO | Received command c on object id p0
+2026-01-15 22:45:07,872 | INFO | Random seeds fixed for reproducibility.
+2026-01-15 22:45:08,068 | INFO | Received command c on object id p0
+2026-01-15 22:45:08,703 | INFO | requirements.txt generated.
+2026-01-15 22:45:08,903 | INFO | Received command c on object id p0
+2026-01-15 22:45:08,992 | INFO | Hashed menu_items.csv: 7b988ca5f880bf2106793f88de522aab06b4cebbc9219c5aa79497e897c47561
+2026-01-15 22:45:09,094 | INFO | Hashed order_details.csv: 85086e838a21f7569b0cd803224f50440ab68c132e1df5df1a1058072abbcd83
+2026-01-15 22:45:09,131 | INFO | Data hashes saved to data_hashes.json
+2026-01-15 22:45:09,329 | INFO | Received command c on object id p0
+2026-01-15 22:45:09,418 | INFO | Menu dataframe loaded with 32 rows
+2026-01-15 22:45:09,419 | INFO | Order details dataframe loaded with 12234 rows
+2026-01-15 22:45:09,759 | INFO | Received command c on object id p0
+2026-01-15 22:45:32,953 | INFO | Closing down clientserver connection
+2026-01-15 22:49:23,388 | INFO | Python Server ready to receive messages
+2026-01-15 22:49:23,395 | INFO | Received command c on object id p0
+2026-01-15 22:52:28,810 | INFO | Python Server ready to receive messages
+2026-01-15 22:52:28,811 | INFO | Received command c on object id p0
+2026-01-15 22:52:28,914 | INFO | === ETL Run Started ===
+2026-01-15 22:52:28,918 | INFO | Log file created: logs/run_20260115_2252.log
+2026-01-15 22:52:29,321 | INFO | Received command c on object id p0
+2026-01-15 22:52:29,348 | INFO | Random seeds fixed for reproducibility.
+2026-01-15 22:52:29,553 | INFO | Received command c on object id p0
+2026-01-15 22:52:30,153 | INFO | requirements.txt generated.
+2026-01-15 22:52:30,343 | INFO | Received command c on object id p0
+2026-01-15 22:52:30,410 | INFO | Hashed menu_items.csv: 7b988ca5f880bf2106793f88de522aab06b4cebbc9219c5aa79497e897c47561
+2026-01-15 22:52:30,439 | INFO | Hashed order_details.csv: 85086e838a21f7569b0cd803224f50440ab68c132e1df5df1a1058072abbcd83
+2026-01-15 22:52:30,468 | INFO | Data hashes saved to data_hashes.json
+2026-01-15 22:52:30,663 | INFO | Received command c on object id p0
+2026-01-15 22:52:30,800 | INFO | Menu dataframe loaded with 32 rows
+2026-01-15 22:52:30,801 | INFO | Order details dataframe loaded with 12234 rows
+2026-01-15 22:52:30,996 | INFO | Received command c on object id p0
+2026-01-15 22:52:31,185 | INFO | Received command c on object id p0
+2026-01-15 22:52:31,335 | INFO | Data cleaning completed.
+2026-01-15 22:52:31,521 | INFO | Received command c on object id p0
+2026-01-15 22:52:31,542 | INFO | Merged dataframe created with 12234 rows
+2026-01-15 22:52:31,761 | INFO | Received command c on object id p0
+2026-01-15 22:53:53,647 | INFO | Python Server ready to receive messages
+2026-01-15 22:53:53,650 | INFO | Received command c on object id p0
+2026-01-15 22:53:53,766 | INFO | === ETL Run Started ===
+2026-01-15 22:53:53,767 | INFO | Log file created: logs/run_20260115_2253.log
+2026-01-15 22:53:54,083 | INFO | Received command c on object id p0
+2026-01-15 22:53:54,094 | INFO | Random seeds fixed for reproducibility.
+2026-01-15 22:53:54,270 | INFO | Received command c on object id p0
+2026-01-15 22:53:54,860 | INFO | requirements.txt generated.
+2026-01-15 22:53:55,059 | INFO | Received command c on object id p0
+2026-01-15 22:53:55,141 | INFO | Hashed menu_items.csv: 7b988ca5f880bf2106793f88de522aab06b4cebbc9219c5aa79497e897c47561
+2026-01-15 22:53:55,251 | INFO | Hashed order_details.csv: 85086e838a21f7569b0cd803224f50440ab68c132e1df5df1a1058072abbcd83
+2026-01-15 22:53:55,293 | INFO | Data hashes saved to data_hashes.json
+2026-01-15 22:53:55,497 | INFO | Received command c on object id p0
+2026-01-15 22:53:55,576 | INFO | Menu dataframe loaded with 32 rows
+2026-01-15 22:53:55,577 | INFO | Order details dataframe loaded with 12234 rows
+2026-01-15 22:53:55,763 | INFO | Received command c on object id p0
+2026-01-15 22:53:55,972 | INFO | Received command c on object id p0
+2026-01-15 22:53:56,113 | INFO | Data cleaning completed.
+2026-01-15 22:53:56,275 | INFO | Received command c on object id p0
+2026-01-15 22:53:56,287 | INFO | Merged dataframe created with 12234 rows
+2026-01-15 22:53:56,481 | INFO | Received command c on object id p0
+2026-01-15 22:57:43,863 | INFO | Python Server ready to receive messages
+2026-01-15 22:57:43,864 | INFO | Received command c on object id p0
+2026-01-15 22:57:43,878 | INFO | Final tidy table created.
+2026-01-15 22:57:48,803 | INFO | Received command c on object id p0
+2026-01-15 22:57:49,027 | INFO | === ETL Run Started ===
+2026-01-15 22:57:49,029 | INFO | Log file created: logs/run_20260115_2257.log
+2026-01-15 22:57:49,222 | INFO | Received command c on object id p0
+2026-01-15 22:57:49,234 | INFO | Random seeds fixed for reproducibility.
+2026-01-15 22:57:49,420 | INFO | Received command c on object id p0
+2026-01-15 22:57:50,063 | INFO | requirements.txt generated.
