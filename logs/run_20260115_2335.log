@@ -25,3 +25,32 @@
 2026-01-15 23:35:40,314 | INFO | Metrics saved to metrics_20260115_2335.csv
 2026-01-15 23:35:40,658 | INFO | Received command c on object id p0
 2026-01-15 23:35:40,683 | INFO | All tests passed successfully.
+2026-01-16 00:01:51,005 | INFO | Python Server ready to receive messages
+2026-01-16 00:01:51,006 | INFO | Received command c on object id p0
+2026-01-16 00:01:51,353 | INFO | === ETL Run Started ===
+2026-01-16 00:01:51,354 | INFO | Log file created: logs/run_20260116_0001.log
+2026-01-16 00:01:51,753 | INFO | Received command c on object id p0
+2026-01-16 00:01:51,766 | INFO | Random seeds fixed for reproducibility.
+2026-01-16 00:01:51,999 | INFO | Received command c on object id p0
+2026-01-16 00:01:52,644 | INFO | requirements.txt generated.
+2026-01-16 00:01:52,945 | INFO | Received command c on object id p0
+2026-01-16 00:01:53,134 | INFO | Hashed menu_items.csv: 7b988ca5f880bf2106793f88de522aab06b4cebbc9219c5aa79497e897c47561
+2026-01-16 00:01:53,275 | INFO | Hashed order_details.csv: 85086e838a21f7569b0cd803224f50440ab68c132e1df5df1a1058072abbcd83
+2026-01-16 00:01:53,277 | INFO | Data hashes saved to data_hashes.json
+2026-01-16 00:01:53,487 | INFO | Received command c on object id p0
+2026-01-16 00:01:53,565 | INFO | Menu dataframe loaded with 32 rows
+2026-01-16 00:01:53,566 | INFO | Order details dataframe loaded with 12234 rows
+2026-01-16 00:01:53,776 | INFO | Received command c on object id p0
+2026-01-16 00:01:53,970 | INFO | Received command c on object id p0
+2026-01-16 00:01:54,116 | INFO | Data cleaning completed.
+2026-01-16 00:01:54,277 | INFO | Received command c on object id p0
+2026-01-16 00:01:54,289 | INFO | Merged dataframe created with 12234 rows
+2026-01-16 00:01:54,496 | INFO | Received command c on object id p0
+2026-01-16 00:01:54,515 | INFO | Final tidy table created.
+2026-01-16 00:01:54,738 | INFO | Received command c on object id p0
+2026-01-16 00:01:54,983 | INFO | Received command c on object id p0
+2026-01-16 00:01:55,189 | INFO | Received command c on object id p0
+2026-01-16 00:01:55,386 | INFO | Received command c on object id p0
+2026-01-16 00:01:55,522 | INFO | Metrics saved to metrics_20260116_0001.csv
+2026-01-16 00:01:55,740 | INFO | Received command c on object id p0
+2026-01-16 00:01:55,753 | INFO | All tests passed successfully.
